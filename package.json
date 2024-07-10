@@ -69,5 +69,5 @@
         "youtubedl-core": "^4.11.5",
         "ytdl-core": "^4.11.5"
     },
-    "packageManager": "yarn@4.1.1"
+    "packageManager": "yarn@1.22.22"
     }
